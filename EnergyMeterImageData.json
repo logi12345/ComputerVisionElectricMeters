@@ -1,0 +1,214 @@
+{
+    "ImageOCRData": [
+        [
+            {
+                "boundingBox": "115,206,62,20",
+                "text": "Single"
+            },
+            {
+                "boundingBox": "259,202,57,27",
+                "text": "200"
+            },
+            {
+                "boundingBox": "341,200,66,29",
+                "text": "240\\/"
+            },
+            {
+                "boundingBox": "116,244,60,16",
+                "text": "Phase"
+            },
+            {
+                "boundingBox": "200,248,96,14",
+                "text": "744x000052"
+            },
+            {
+                "boundingBox": "348,245,53,18",
+                "text": "60Hz"
+            },
+            {
+                "boundingBox": "191,357,85,39",
+                "text": "•e"
+            },
+            {
+                "boundingBox": "440,244,29,17",
+                "text": "TA"
+            },
+            {
+                "boundingBox": "478,244,23,18",
+                "text": "30"
+            },
+            {
+                "boundingBox": "533,207,74,23",
+                "text": "FM2S"
+            },
+            {
+                "boundingBox": "541,243,28,17",
+                "text": "Kh"
+            },
+            {
+                "boundingBox": "578,243,30,19",
+                "text": "7.2"
+            },
+            {
+                "boundingBox": "640,208,29,22",
+                "text": "Kt"
+            },
+            {
+                "boundingBox": "679,208,38,22",
+                "text": "7.2"
+            },
+            {
+                "boundingBox": "644,246,29,18",
+                "text": "TV"
+            },
+            {
+                "boundingBox": "682,246,36,18",
+                "text": "240"
+            }
+        ],
+        [
+            {
+                "boundingBox": "275,138,151,15",
+                "text": "KILOWATTHOURS"
+            },
+            {
+                "boundingBox": "122,212,11,14",
+                "text": "S"
+            },
+            {
+                "boundingBox": "173,212,65,20",
+                "text": "3CLlOO"
+            },
+            {
+                "boundingBox": "255,214,37,17",
+                "text": "120V"
+            },
+            {
+                "boundingBox": "310,214,126,18",
+                "text": "3W'TYPEJl2S"
+            },
+            {
+                "boundingBox": "116,244,8,6",
+                "text": "_"
+            },
+            {
+                "boundingBox": "130,228,19,19",
+                "text": "X"
+            },
+            {
+                "boundingBox": "151,245,10,14",
+                "text": "F"
+            },
+            {
+                "boundingBox": "199,233,44,17",
+                "text": "CON."
+            },
+            {
+                "boundingBox": "254,234,70,17",
+                "text": "EDISON"
+            },
+            {
+                "boundingBox": "336,235,31,16",
+                "text": "CO."
+            },
+            {
+                "boundingBox": "377,235,24,16",
+                "text": "OF"
+            },
+            {
+                "boundingBox": "411,235,33,16",
+                "text": "N.Y."
+            },
+            {
+                "boundingBox": "454,235,35,15",
+                "text": "INC."
+            },
+            {
+                "boundingBox": "370,362,24,8",
+                "text": "60\","
+            },
+            {
+                "boundingBox": "406,360,33,9",
+                "text": "FM2ss"
+            }
+        ],
+        [
+            {
+                "boundingBox": "640,159,155,32",
+                "text": "Westinghouse"
+            },
+            {
+                "boundingBox": "71,548,229,100",
+                "text": "(--IoW\\tQ"
+            },
+            {
+                "boundingBox": "329,566,142,56",
+                "text": "read"
+            },
+            {
+                "boundingBox": "496,566,361,73",
+                "text": "your(home"
+            },
+            {
+                "boundingBox": "884,566,234,56",
+                "text": "electric"
+            },
+            {
+                "boundingBox": "399,649,51,18",
+                "text": "TWO"
+            },
+            {
+                "boundingBox": "464,652,79,17",
+                "text": "STATOR"
+            },
+            {
+                "boundingBox": "70,645,199,67",
+                "text": "meter"
+            },
+            {
+                "boundingBox": "761,656,113,16",
+                "text": "WATTHOUR"
+            },
+            {
+                "boundingBox": "888,657,57,15",
+                "text": "METER"
+            }
+        ],
+        [
+            {
+                "boundingBox": "195,45,5,9",
+                "text": ")"
+            },
+            {
+                "boundingBox": "201,44,50,10",
+                "text": "VEIONTEX"
+            },
+            {
+                "boundingBox": "185,97,15,10",
+                "text": "5-30"
+            },
+            {
+                "boundingBox": "201,97,6,10",
+                "text": "A"
+            },
+            {
+                "boundingBox": "191,148,36,8",
+                "text": "air-nun"
+            }
+        ],
+        [
+            {
+                "boundingBox": "303,90,24,24",
+                "text": "Rr"
+            },
+            {
+                "boundingBox": "337,86,58,28",
+                "text": "138/9"
+            },
+            {
+                "boundingBox": "255,129,192,20",
+                "text": "KILOWATTHOURS"
+            }
+        ]
+    ]
+}
